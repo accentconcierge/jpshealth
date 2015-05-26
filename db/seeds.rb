@@ -7,4 +7,4 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 Admin.create email:'vyasa@accent.global', password:'gauranitai108'
-Admin.create email:'vaishnav@gmail.com', password:'jps'
+Admin.create email:'vaishnavprandas@gmail.com', password:'jpsjpsjps'
